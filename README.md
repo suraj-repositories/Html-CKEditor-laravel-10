@@ -1,8 +1,10 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-# Ck-Editor-Laravel-10
+# Html-CKEditor-laravel-10
 
 CKEditor is a WYSIWYG rich text editor which enables writing content directly inside of web pages or online applications.<br />
+
+
 
 Important Links : 
 - [Ck Editor 5 download/cdn/npm](https://ckeditor.com/ckeditor-5/download/#zip)
