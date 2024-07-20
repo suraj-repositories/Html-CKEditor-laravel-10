@@ -193,6 +193,18 @@ Important Links :
 - app\Http\Controllers\EditorController.php
 - added dir : public\assets\ckeditor5
 
+# Installation - 
+If you want to download and use this project as reference; here is the steps : 
+1. download and extract the zip
+2. make sure you have `php 8.1+` and `Laravel 10+` installed on your PC
+3. create mysql database named `ck_editor_test`
+4. on project root directory run commands : *INTERNET IS REQUIRED*
+    - `composer intsall`
+    - `php artisan migrate`
+    - `php artisan serve`
+5. Visit on URL [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
+
+
 <br />
 <br />
 <p align="center">⭐️ Star my repositories if you find it helpful.</p>
